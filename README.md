@@ -53,13 +53,13 @@
 ## 📸 Screenshots
 
 ### Learning Hub & Home
-*(Add screenshot of the main dashboard here)*
+(screenshot of the main dashboard)
 ![alt text](image-3.png)
 ### Attack Simulation (SQL Injection)
-*(Add screenshot of the SQLi Overview & Simulation tabs)*
+*(screenshot of the SQLi Overview & Simulation tabs)
 ![alt text](image-2.png)
 ### Dark vs. Light Mode
-*(Add comparison screenshots here)*
+(comparison screenshots)
 ![alt text](image-1.png)
 ---
 
