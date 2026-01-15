@@ -34,7 +34,7 @@
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/cyber-sim.git
+    git clone https://github.com/AdVmmE/cyber-attack-simulator
     cd cyber-sim
     ```
 
